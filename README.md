@@ -1,1 +1,1 @@
-# fct-nova-theory-of-computational-games-labs
+# FCT NOVA - Theory of Computational Games Labs
