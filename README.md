@@ -85,16 +85,16 @@ git clone git@github.com:rubenandrebarreiro/fct-nova-theory-of-computational-gam
 * [**_Arduino IDE_**](https://www.arduino.cc/en/main/software)
 
 ## Contributors
-> [Carmen Pires Morgado (Professor)](https://www.di.fct.unl.pt/en/pessoas/docentes/carmen-pires-morgado)
+> [João Alexandre Leite (Professor)](https://userweb.fct.unl.pt//~jleite/)
 
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
 
 ## Contacts
 
-### Carmen Pires Morgado
+### João Alexandre Leite
 #### E-mails
-* [cpm@fct.unl.pt](mailto:cpm@fct.unl.pt)
+* [jleite@fct.unl.pt](mailto:jleite@fct.unl.pt)
 
 ### Rúben André Barreiro
 #### E-mails
