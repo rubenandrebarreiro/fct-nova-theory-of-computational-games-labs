@@ -82,7 +82,9 @@ git clone git@github.com:rubenandrebarreiro/fct-nova-theory-of-computational-gam
 ```
 
 ## Built with
-* [**_Arduino IDE_**](https://www.arduino.cc/en/main/software)
+* [**_Java_**](https://www.java.com/)
+* [**_Eclipse IDE 2018-12_**](https://www.eclipse.org/)
+* [**_JetBrains IntelliJ IDEA_**](https://www.jetbrains.com/idea/)
 
 ## Contributors
 > [João Alexandre Leite (Professor)](https://userweb.fct.unl.pt//~jleite/)
